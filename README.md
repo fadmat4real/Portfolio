@@ -8,38 +8,20 @@ My oil & gas execution expertise can be readily transitioned into **mining and b
 ---
 
 ## Skills
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none; padding: 4px;">• Shutdown & Turnaround Execution</td>
-    <td style="border: none; padding: 4px;">• SIMOPS Planning & Coordination</td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 4px;">• Project Management & Coordination</td>
-    <td style="border: none; padding: 4px;">• Project Scheduling & Cost Control</td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 4px;">• Contractor & Vendor Management</td>
-    <td style="border: none; padding: 4px;">• EPCI/EPCM Project Delivery</td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 4px;">• Risk Assessment (FLHA, HAZOP, JHAs, PTW)</td>
-    <td style="border: none; padding: 4px;">• Pre‑commissioning & Commissioning</td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 4px;">• Operational Readiness</td>
-    <td style="border: none; padding: 4px;">• Management of Change (MOC)</td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 4px;">• Change Orders & Claims</td>
-    <td style="border: none; padding: 4px;">• Document Control & Quality Assurance</td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 4px;">• Stakeholder & Regulatory Engagement</td>
-    <td style="border: none; padding: 4px;">• SAP, MS Project, Power BI, MS Office</td>
-  </tr>
-</table>
-
- 
+- Shutdown & Turnaround Execution  
+- SIMOPS Planning & Coordination
+- Project management & Coordination
+- Project Scheduling & Cost Control  
+- Contractor & Vendor Management  
+- EPCI/EPCM Project Delivery  
+- Risk Assessment (FLHA, HAZOP, JHAs, PTW)  
+- Pre‑commissioning & Commissioning  
+- Operational Readiness  
+- Management of Change (MOC)  
+- Change Orders & Claims  
+- Document Control & Quality Assurance  
+- Stakeholder & Regulatory Engagement  
+- SAP, MS Project, Power BI, MS Office
 
 ---
 
