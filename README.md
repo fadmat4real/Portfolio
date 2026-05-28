@@ -8,20 +8,37 @@ My oil & gas execution expertise can be readily transitioned into **mining and b
 ---
 
 ## Skills
-- Shutdown & Turnaround Execution  
-- SIMOPS Planning & Coordination
-- Project management & Coordination
-- Project Scheduling & Cost Control  
-- Contractor & Vendor Management  
-- EPCI/EPCM Project Delivery  
-- Risk Assessment (FLHA, HAZOP, JHAs, PTW)  
-- Pre‑commissioning & Commissioning  
-- Operational Readiness  
-- Management of Change (MOC)  
-- Change Orders & Claims  
-- Document Control & Quality Assurance  
-- Stakeholder & Regulatory Engagement  
-- SAP, MS Project, Power BI, MS Office  
+<table>
+  <tr>
+    <td>• Shutdown & Turnaround Execution</td>
+    <td>• SIMOPS Planning & Coordination</td>
+  </tr>
+  <tr>
+    <td>• Project Management & Coordination</td>
+    <td>• Project Scheduling & Cost Control</td>
+  </tr>
+  <tr>
+    <td>• Contractor & Vendor Management</td>
+    <td>• EPCI/EPCM Project Delivery</td>
+  </tr>
+  <tr>
+    <td>• Risk Assessment (FLHA, HAZOP, JHAs, PTW)</td>
+    <td>• Pre‑commissioning & Commissioning</td>
+  </tr>
+  <tr>
+    <td>• Operational Readiness</td>
+    <td>• Management of Change (MOC)</td>
+  </tr>
+  <tr>
+    <td>• Change Orders & Claims</td>
+    <td>• Document Control & Quality Assurance</td>
+  </tr>
+  <tr>
+    <td>• Stakeholder & Regulatory Engagement</td>
+    <td>• SAP, MS Project, Power BI, MS Office</td>
+  </tr>
+</table>
+ 
 
 ---
 
