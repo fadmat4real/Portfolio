@@ -1,17 +1,16 @@
-# 👋 Hi, I'm Mathew Isibor  
+# About Me 
 **Project & Shutdown Execution Lead | PMP | EIT | Oil & Gas → Mining Transition**
 
-I am a Project Management Professional (PMP) and Senior Project/Shutdown Coordinator with 15 years of experience delivering complex shutdowns, turnarounds, capital projects, and engineering execution across offshore, onshore, and heavy‑industrial environments.  
+I am a Project Management Professional (PMP) and Senior Project Engineer/Shutdown Coordinator with 13 years of experience delivering complex shutdowns, turnarounds, capital projects, and engineering execution across offshore, onshore, and heavy‑industrial environments.  
 
-My background spans **EPCM/EPCI project delivery**, **shutdown planning**, **SIMOPS**, **commissioning**, **risk management**, and **multidisciplinary coordination**. I have led teams and contractors to safely execute high‑risk scopes with zero incidents while improving operational reliability and project predictability.
-
-I am currently transitioning my oil & gas execution expertise into **mining and base‑metals operations**, with strong alignment to roles in **project execution, shutdown leadership, field coordination, and operational readiness**.
+My oil & gas execution expertise can be readily transitioned into **mining and base‑metals operations**, with strong alignment to roles in **project execution, shutdown leadership, field coordination, and operational readiness**.
 
 ---
 
-## 🔧 Core Competencies
+## 🔧 Skills
 - Shutdown & Turnaround Execution  
-- SIMOPS Planning & Coordination  
+- SIMOPS Planning & Coordination
+- Project management & Coordination
 - Project Scheduling & Cost Control  
 - Contractor & Vendor Management  
 - EPCI/EPCM Project Delivery  
