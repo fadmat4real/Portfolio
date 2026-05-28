@@ -7,7 +7,7 @@ My oil & gas execution expertise can be readily transitioned into **mining and b
 
 ---
 
-## 🔧 Skills
+## Skills
 - Shutdown & Turnaround Execution  
 - SIMOPS Planning & Coordination
 - Project management & Coordination
@@ -25,7 +25,7 @@ My oil & gas execution expertise can be readily transitioned into **mining and b
 
 ---
 
-## 🛠 Professional Experience
+## Professional Experience
 
 ### **Project Coordinator – Execution Support**  
 **Aker Solutions Canada Inc. | St. John’s, NL | 2023–2025**  
@@ -64,7 +64,7 @@ My oil & gas execution expertise can be readily transitioned into **mining and b
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 - **MSc, Oil & Gas Engineering** – Memorial University of Newfoundland  
 - **BSc, Chemical Engineering** – Obafemi Awolowo University  
 - **PMP – Project Management Professional**  
@@ -73,7 +73,7 @@ My oil & gas execution expertise can be readily transitioned into **mining and b
 
 ---
 
-## 📫 Contact
+## Contact
 - **Email:** fadmat4real@yahoo.com
 - **Phone Number:** +1 (709) 728 7059
 - **LinkedIn:** linkedin.com/in/mathew-isibor-19456937  
@@ -81,14 +81,13 @@ My oil & gas execution expertise can be readily transitioned into **mining and b
 
 ---
 
-## 🚀 What I'm Working On
-- Building a project‑based engineering portfolio on GitHub  
+## What I'm Working On
 - Developing templates for project controls, shutdown planning, and execution readiness  
 - Transitioning oil & gas execution expertise into mining and heavy‑industrial operations  
 
 ---
 
-## 🤝 Open to Opportunities
+## Open to Opportunities
 I’m actively exploring roles in:  
 - Project Engineering & Execution  
 - Shutdown/Turnaround Leadership  
