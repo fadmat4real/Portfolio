@@ -8,36 +8,37 @@ My oil & gas execution expertise can be readily transitioned into **mining and b
 ---
 
 ## Skills
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td>• Shutdown & Turnaround Execution</td>
-    <td>• SIMOPS Planning & Coordination</td>
+    <td style="border: none; padding: 4px;">• Shutdown & Turnaround Execution</td>
+    <td style="border: none; padding: 4px;">• SIMOPS Planning & Coordination</td>
   </tr>
   <tr>
-    <td>• Project Management & Coordination</td>
-    <td>• Project Scheduling & Cost Control</td>
+    <td style="border: none; padding: 4px;">• Project Management & Coordination</td>
+    <td style="border: none; padding: 4px;">• Project Scheduling & Cost Control</td>
   </tr>
   <tr>
-    <td>• Contractor & Vendor Management</td>
-    <td>• EPCI/EPCM Project Delivery</td>
+    <td style="border: none; padding: 4px;">• Contractor & Vendor Management</td>
+    <td style="border: none; padding: 4px;">• EPCI/EPCM Project Delivery</td>
   </tr>
   <tr>
-    <td>• Risk Assessment (FLHA, HAZOP, JHAs, PTW)</td>
-    <td>• Pre‑commissioning & Commissioning</td>
+    <td style="border: none; padding: 4px;">• Risk Assessment (FLHA, HAZOP, JHAs, PTW)</td>
+    <td style="border: none; padding: 4px;">• Pre‑commissioning & Commissioning</td>
   </tr>
   <tr>
-    <td>• Operational Readiness</td>
-    <td>• Management of Change (MOC)</td>
+    <td style="border: none; padding: 4px;">• Operational Readiness</td>
+    <td style="border: none; padding: 4px;">• Management of Change (MOC)</td>
   </tr>
   <tr>
-    <td>• Change Orders & Claims</td>
-    <td>• Document Control & Quality Assurance</td>
+    <td style="border: none; padding: 4px;">• Change Orders & Claims</td>
+    <td style="border: none; padding: 4px;">• Document Control & Quality Assurance</td>
   </tr>
   <tr>
-    <td>• Stakeholder & Regulatory Engagement</td>
-    <td>• SAP, MS Project, Power BI, MS Office</td>
+    <td style="border: none; padding: 4px;">• Stakeholder & Regulatory Engagement</td>
+    <td style="border: none; padding: 4px;">• SAP, MS Project, Power BI, MS Office</td>
   </tr>
 </table>
+
  
 
 ---
