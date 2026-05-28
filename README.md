@@ -1,9 +1,9 @@
 # About Me 
 **Project & Shutdown Execution Lead | PMP | EIT | Oil & Gas → Mining Transition**
 
-I am a Project Management Professional (PMP) and Senior Project Engineer/Shutdown Coordinator with 13 years of experience delivering complex shutdowns, turnarounds, capital projects, and engineering execution across offshore, onshore, and heavy‑industrial environments.  
+I am a Project Management Professional (PMP) and Senior Project Engineer/Shutdown Coordinator with over 13 years of experience delivering complex shutdowns, turnarounds, capital projects, and engineering execution across offshore, onshore, and heavy‑industrial environments.  
 
-My oil & gas execution expertise can be readily transitioned into **mining and base‑metals operations**, with strong alignment to roles in **project execution, shutdown leadership, field coordination, and operational readiness**.
+My oil & gas execution expertise can be readily transitioned into **mining and base‑metals operations**, with strong alignment to roles in **project management, engineering, coordination and execution, shutdown leadership, field coordination, and operational readiness**.
 
 ---
 
@@ -73,15 +73,9 @@ My oil & gas execution expertise can be readily transitioned into **mining and b
 
 ---
 
-## 🏆 Accomplishments
-- Fellow of the School of Graduate Studies (4.0/4.0 GPA)  
-- Delivered multiple offshore shutdowns with **zero safety incidents**  
-- Improved execution readiness and operational reliability across offshore assets  
-
----
-
 ## 📫 Contact
-- **Email:** fadmat4real@yahoo.com  
+- **Email:** fadmat4real@yahoo.com
+- **Phone Number:** +1 (709) 728 7059
 - **LinkedIn:** linkedin.com/in/mathew-isibor-19456937  
 - **Location:** St. John’s, Newfoundland & Labrador, Canada  
 
@@ -96,20 +90,10 @@ My oil & gas execution expertise can be readily transitioned into **mining and b
 
 ## 🤝 Open to Opportunities
 I’m actively exploring roles in:  
-- Project Execution  
+- Project Engineering & Execution  
 - Shutdown/Turnaround Leadership  
 - Field Engineering & Commissioning  
 - Project Coordination (Mining, Oil & Gas, Utilities, Heavy Industry)
 
 Feel free to connect or collaborate!
 ```
-
----
-
-# ⭐ If you want, I can also create:
-### ✔ A **portfolio structure** for your GitHub  
-### ✔ A **Projects** section with case studies from your résumé  
-### ✔ A **visual banner** for your GitHub profile  
-### ✔ A **skills badge layout** (shields.io style)  
-
-Just tell me what you want next.
