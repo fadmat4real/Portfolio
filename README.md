@@ -29,15 +29,6 @@ My oil & gas execution expertise can be readily transitioned into **mining and b
 
 ---
 
-## Education & Certifications
-- **MSc, Oil & Gas Engineering** – Memorial University of Newfoundland  
-- **BSc, Chemical Engineering** – Obafemi Awolowo University  
-- **PMP – Project Management Professional**  
-- **EIT – Engineer‑in‑Training (P.Eng in progress)**  
-- **PRINCE2 – Advanced Certificate in Project Management**
-
----
-
 ## Contact
 - **Email:** fadmat4real@yahoo.com
 - **Phone Number:** +1 (709) 728 7059
